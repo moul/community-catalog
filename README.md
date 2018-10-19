@@ -1,5 +1,7 @@
 # Rancher Community Catalog 
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/community-catalog.svg)](https://www.guardrails.io)
+
 This catalog provides templates created by the community, and they are not maintained or supported by Rancher Labs.
 
 # License
